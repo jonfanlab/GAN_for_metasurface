@@ -36,7 +36,7 @@ to specify non-default output folder or training set
 
 All results will store in output_dir folder.
 ```
-	-figures/  (figures of generated devices and loss function curve for every 250 iterations)
-	-model/    (all weights of the generator and discriminator)
-	-outputs/  (500 generated devices for every combination of wavelength and angle in `.mat` format)
+-figures/  (figures of generated devices and loss function curve for every 250 iterations)
+-model/    (all weights of the generator and discriminator)
+-outputs/  (500 generated devices for every combination of wavelength and angle in `.mat` format)
 ```
