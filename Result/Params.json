@@ -1,0 +1,15 @@
+{
+    "batch_size": 1024.0,
+    "noise_dims": 128.0,
+    "label_dims": 2.0, 
+    "numIter": 2000.0,
+    "gkernlen": 3.0,
+    "gkernsig": 2.0,
+    "lr_gen": 4e-05,
+    "lr_dis": 4e-05,
+    "beta1_gen": 0.9,
+    "beta2_gen": 0.99,
+    "beta1_dis": 0.9,
+    "beta2_dis": 0.99,
+    "use_Gauss": 1.0
+}
