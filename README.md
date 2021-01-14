@@ -40,3 +40,11 @@ All results will store in output_dir folder.
 -model/    (all weights of the generator and discriminator)
 -outputs/  (500 generated devices for every combination of wavelength and angle in `.mat` format)
 ```
+
+## Citation
+If you use this code for your research, please cite:
+
+[Free-form diffractive metagrating design based on generative adversarial networks.<br>](https://fanlab.stanford.edu/wp-content/papercite-data/pdf/jiang2019free.pdf)
+J. Jiang, D. Sell, S. Hoyer, J. Hickey, J. Yang, and J. A. Fan
+
+
